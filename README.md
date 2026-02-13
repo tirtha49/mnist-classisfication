@@ -1,4 +1,4 @@
-# MNIST Handwritten Digit Classification
+# MNIST Handwritten Digit Classification using ANN
 ## 📌 Overview
 This mini project demonstrates handwritten digit classification on the MNIST dataset using a simple Deep Learning neural network built with TensorFlow/Keras in a Jupyter Notebook.
 
